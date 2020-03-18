@@ -1,2 +1,2 @@
-# lab5
-lab5 gonderim
+# Kombinasyon, Permütasyon ,Fibonaci, Faktoriyel Hesabı
+
